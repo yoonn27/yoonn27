@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi I'm Yune.
+I am a student who is trying to become a full stack dev.
+Wish me luck!
